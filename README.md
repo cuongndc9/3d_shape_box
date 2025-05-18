@@ -6,6 +6,6 @@ Java 💩, I 🤬 hate you but I 😘 love you
 ![demo](./docs/demo.gif)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🐶
+Discomfort is the currency of your dreams.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
