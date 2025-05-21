@@ -8,5 +8,5 @@ Java 💩, I 🤬 hate you but I 😘 love you
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🐯
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
