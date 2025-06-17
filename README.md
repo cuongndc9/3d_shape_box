@@ -7,5 +7,5 @@ Java 💩, I 🤬 hate you but I 😘 love you
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->
