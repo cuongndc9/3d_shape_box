@@ -7,5 +7,5 @@ Java 💩, I 🤬 hate you but I 😘 love you
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!-- INSPIRATIONAL_QUOTE_END -->
